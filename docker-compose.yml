@@ -1,7 +1,7 @@
  
 version: "3.7"
 services:
-  testpoint:
+  centos7:
     build:
       context: ./
     cap_add: 
